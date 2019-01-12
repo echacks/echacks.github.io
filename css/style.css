@@ -1876,3 +1876,7 @@ th {
     background-color: #154734;
     color: white;
 }
+
+.name-list {
+    list-style: none;
+}

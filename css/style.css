@@ -1880,3 +1880,13 @@ th {
 .name-list {
     list-style: none;
 }
+
+.icon-center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icon-center div {
+    margin-left: auto;
+    margin-right: auto;
+}

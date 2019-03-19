@@ -1160,13 +1160,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-bottom: 1px solid #e0e5fa;
   overflow: hidden;
   background: rgba(255, 255, 255, 0.5);
-  height: 160px;
+  height: 200px;
 }
 
-#sponsors .sponsor-logo:hover img {
-  -webkit-transform: scale(1.2);
-  transform: scale(1.2);
-}
+/* #sponsors .sponsor-logo:hover img { */
+/*   -webkit-transform: scale(1.2); */
+/*   transform: scale(1.2); */
+/* } */
 
 #sponsors img {
   transition: all 0.4s ease-in-out;

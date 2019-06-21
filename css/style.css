@@ -1189,8 +1189,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-bottom: 1px solid #ddd;
 }
 
-#faq #faq-list li.listitems { 
-	border-bottom: 0px; 
+#faq #faq-list li.listitems {
+	border-bottom: 0px;
 }
 
 #faq #faq-list a {
@@ -1206,7 +1206,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #faq #faq-list a.links {
 	display: inline;
-	padding-right: 0px; 
+	padding-right: 0px;
 }
 
 #faq #faq-list i {
@@ -1241,8 +1241,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-bottom: 1px solid #ddd;
 }
 
-#faq #faq-list2 li.listitems { 
-	border-bottom: 0px; 
+#faq #faq-list2 li.listitems {
+	border-bottom: 0px;
 }
 
 #faq #faq-list2 a {
@@ -1258,7 +1258,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #faq #faq-list2 a.links {
 	display: inline;
-	padding-right: 0px; 
+	padding-right: 0px;
 }
 
 #faq #faq-list2 i {
@@ -1293,8 +1293,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-bottom: 1px solid #ddd;
 }
 
-#faq #faq-list3 li.listitems { 
-	border-bottom: 0px; 
+#faq #faq-list3 li.listitems {
+	border-bottom: 0px;
 }
 
 #faq #faq-list3 a {
@@ -1310,7 +1310,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #faq #faq-list3 a.links {
 	display: inline;
-	padding-right: 0px; 
+	padding-right: 0px;
 }
 
 #faq #faq-list3 i {
@@ -1571,7 +1571,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about-committee {
-	padding: 60px 0px; 
+	padding: 60px 0px;
 }
 
 /*--------------------------------------------------------------
@@ -1852,7 +1852,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: bold;
 }
 
-/* Tables */ 
+/* Tables */
 table {
     font-family: "Raleway", sans-serif;
     border-collapse: collapse;
@@ -1861,11 +1861,11 @@ td, th {
     border: 1px solid #ddd;
     padding: 8px;
 }
-/* Alternating row colours on the tables */ 
+/* Alternating row colours on the tables */
 tr:nth-child(even) {
 	background-color: #f6f7fd;;
 }
-/* Change colour of row on hover */ 
+/* Change colour of row on hover */
 tr:hover {
 	background-color: #ddd;
 }
@@ -1889,4 +1889,9 @@ th {
 .icon-center div {
     margin-left: auto;
     margin-right: auto;
+}
+
+#tree-logo {
+  height: 50%;
+  margin-bottom: 2em;
 }

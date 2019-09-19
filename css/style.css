@@ -16,8 +16,8 @@ body {
 }
 
 /* Makes the scrollbar transparent so it looks cooler */
-body::-webkit-scrollbar {
-  background: transparent;
+::-webkit-scrollbar {
+  display: none !important;
 }
 
 a {

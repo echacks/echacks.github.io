@@ -1900,3 +1900,31 @@ th {
   height: 50%;
   margin-bottom: 2em;
 }
+
+.tier-1 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.tier-2 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.tier-3 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.tier-4 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}

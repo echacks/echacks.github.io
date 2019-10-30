@@ -144,4 +144,8 @@ jQuery(document).ready(function( $ ) {
 
 // custom code
 
+  // Simple-Lightbox initialization
+
+  var $gallery = $('.schedule-wrapper a').simpleLightbox();
+
 });

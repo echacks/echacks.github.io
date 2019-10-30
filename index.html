@@ -30,6 +30,7 @@
     <link href="lib/animate/animate.min.css" rel="stylesheet">
     <link href="lib/venobox/venobox.css" rel="stylesheet">
     <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="lib/simple-lightbox/simple-lightbox.min.css" rel="stylesheet">
 
     <!-- Main Stylesheet File -->
     <link href="css/style.css" rel="stylesheet">
@@ -144,10 +145,16 @@
 
         <!-- Schedule Section -->
         <section id="schedule" class="section-with-bg">
-            <div class="container wow fadeInUp">
+            <div class="container wow fadeInUp schedule-wrapper">
                 <div class="section-header">
                     <h2>Schedule</h2>
-                    <center><img src = "img/schedule.jpg"></center>
+                    <h4 class="instructions">(Click/tap to see it in a full-screen lightbox)</h4>
+                    <center>
+                      <a href="img/schedule.jpg" class="big">
+                        <img class="schedule-img" style="width: 80%" src="img/schedule.jpg" alt="EC Hacks 2019 Schedule" 
+                        title="EC Hacks 2019 Schdule - Pinch to Zoom In">
+                      </a>
+                    </center>
                 </div>
             </div>
         </section>
@@ -494,6 +501,7 @@
     <script src="lib/wow/wow.min.js"></script>
     <script src="lib/venobox/venobox.min.js"></script>
     <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="lib/simple-lightbox/simple-lightbox.min.js"></script>
 
     <!-- Contact Form JavaScript File -->
     <script src="contactform/contactform.js"></script>

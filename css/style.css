@@ -105,6 +105,10 @@ h6 {
   color: #fff;
 }
 
+h4.instructions {
+  text-align: center;
+}
+
 /* Sections Header
 --------------------------------*/
 
@@ -945,6 +949,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-left: 50%;
   transition: all ease-in-out 0.3s;
 }
+
+/* .schedule-img {
+  width: 80% !important;
+} */
 
 #schedule .schedule-item h4 {
   font-size: 18px;
